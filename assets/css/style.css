@@ -43,7 +43,7 @@
 }
 
 .flyeasygo-slider {
-    border-radius: 1rem;
+    /* border-radius: 1rem; */
     overflow: hidden;
 }
 
@@ -218,8 +218,6 @@
     font-size: 14px;
     color: #777;
 }
-
-
 
 
 .flyeasygo-newsletter-section {
